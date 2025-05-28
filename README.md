@@ -15,6 +15,8 @@
 <br><br>
 
 <span id="en"><a href='#ru'>🇷🇺</a> &nbsp;&nbsp;&nbsp;<a href='#en'>🇺🇸</a> &nbsp;&nbsp;&nbsp;</span><br><br>
+![з4](https://github.com/user-attachments/assets/a9d4f52e-9145-40b0-a004-098ae7cb6ab1)
+![з3](https://github.com/user-attachments/assets/b16bfa2f-716f-43a1-81b3-591a3a2b4a84)
 
 ![з2](https://github.com/user-attachments/assets/c268e326-19fc-4462-8a15-3a85f835c199)
 
