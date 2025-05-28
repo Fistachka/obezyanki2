@@ -13,7 +13,7 @@
 Если что-нибудь на свете
 Вдруг случится без него!
 
-Previous lesson: stolbitsa.com/fistachka/obezyanki<br><br>
+Предыдущий урок: stolbitsa.com/fistachka/obezyanki<br><br>
 
 <span id="en"><a href='#ru'>🇷🇺</a> &nbsp;&nbsp;&nbsp;<a href='#en'>🇺🇸</a> &nbsp;&nbsp;&nbsp;</span><br><br>
 
