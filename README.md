@@ -1,35 +1,34 @@
 <span id="ru"><a href='#ru'>🇷🇺</a> &nbsp;&nbsp;&nbsp;<a href='#en'>🇺🇸</a> &nbsp;&nbsp;&nbsp;</span><br><br>
 
-![з2](https://github.com/user-attachments/assets/c268e326-19fc-4462-8a15-3a85f835c199)
+![з4](https://github.com/user-attachments/assets/a9d4f52e-9145-40b0-a004-098ae7cb6ab1)
 
 <iframe width="315" height="560" src="https://www.youtube.com/embed/FRImDQwabwU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
 
-В каждом маленьком ребенке
-И в мальчишке и в девчонке
-Есть по двести грамм взрывчатки
-Или даже полкило!
-Должен он бежать и прыгать
-Все хватать, ногами дрыгать
-А иначе он взорвется, трах-бабах!
-И нет его!
-<br><br>
+Каждый новенький ребенок
+Вылезает из пеленок
+И теряется повсюду
+И находится везде!
+Он всегда куда-то мчится
+Он ужасно огорчится,
+Если что-нибудь на свете
+Вдруг случится без него!
+
+Previous lesson: stolbitsa.com/fistachka/obezyanki<br><br>
 
 <span id="en"><a href='#ru'>🇷🇺</a> &nbsp;&nbsp;&nbsp;<a href='#en'>🇺🇸</a> &nbsp;&nbsp;&nbsp;</span><br><br>
-![з4](https://github.com/user-attachments/assets/a9d4f52e-9145-40b0-a004-098ae7cb6ab1)
-![з3](https://github.com/user-attachments/assets/b16bfa2f-716f-43a1-81b3-591a3a2b4a84)
 
-![з2](https://github.com/user-attachments/assets/c268e326-19fc-4462-8a15-3a85f835c199)
+![з4](https://github.com/user-attachments/assets/a9d4f52e-9145-40b0-a004-098ae7cb6ab1)
 
 <iframe width="315" height="560" src="https://www.youtube.com/embed/8JcvMXkZZd0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
 
-V kazhdom malen'kom rebenke
-I v mal'chishke i v devchonke
-Est' po dvesti gramm vzryvchatki
-Ili dazhe polkilo!
-Dolzhen on bezhat' i prygat'
-Vse hvatat', nogami drygat'
-A inache on vzorvetsya, trah-babah!
-I net ego!
+Kazhdyj noven'kij rebenok
+Vylezaet iz pelenok
+I teryaetsya povsyudu
+I nahoditsya vezde!
+On vsegda kuda-to mchitsya
+On uzhasno ogorchitsya,
+Esli chto-nibud' na svete
+Vdrug sluchitsya bez nego!
 
-<br><br>
+Previous lesson: stolbitsa.com/fistachka/obezyanki<br><br>
 
