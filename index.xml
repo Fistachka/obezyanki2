@@ -2,11 +2,11 @@
 <level>
   <owner>Fistachka</owner>
   <repo>obezyanki2</repo>
-  <version>v1.0.9</version>
+  <version>v1.0.10</version>
   <next number="1" owner="Fistachka" repo="funtik"/>
   <readme>
-    <ru>f26c9e83554a75b35243690e155ce2bad0b1b3b8bec59318e05312b192412dcb</ru>
-    <en>5c6ebeeb24ec908bfe945dfbf3fc64b5fd449fd5e608f9458cb5bb630cb6c39b</en>
+    <ru>90cb66b993572f7b371ed99db140247e066c4f3d883811412d44d997ea5d4ad9</ru>
+    <en>1407c6f094cbbc615f32b20f2cbaf3c3f3c4c0b901907401b927ca2e2ac17287</en>
   </readme>
   <license>b1b99f5538d1fd3702219bff50c665196dfa42f6ee755c37fe41a6178d6bc6e5</license>
   <exercise number="1">
